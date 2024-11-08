@@ -20,7 +20,7 @@ This project aims to create a system for estimating sign language gestures using
 ## Installation
 Clone the repository:
    ```
-   git clone https://github.com/your_username/sign_language_estimation.git
+   git clone https://github.com/iamharshvardhan/sign_language_estimation.git
    ```
 
 ## Usage
